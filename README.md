@@ -3,7 +3,7 @@
 <p align="center">
   <img src="assets/Banner.png" alt="CivicPulse Banner" width="100%">
 </p>
-
+ 
 # 📌 Description
  
 CivicPulse is a modern civic engagement platform that empowers citizens to report local civic issues, monitor complaint resolution progress, and track government transparency through real-time dashboards and community participation tools.
