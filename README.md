@@ -5,7 +5,7 @@
 </p>
 
 # 📌 Description
-
+ 
 CivicPulse is a modern civic engagement platform that empowers citizens to report local civic issues, monitor complaint resolution progress, and track government transparency through real-time dashboards and community participation tools.
 
 Built with a clean glassmorphism-inspired interface, CivicPulse combines public accountability, digital governance, and community-driven problem solving into one scalable platform.
